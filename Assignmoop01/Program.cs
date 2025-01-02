@@ -1,4 +1,6 @@
-﻿namespace Assignmoop01
+﻿using System.Security.Cryptography;
+
+namespace Assignmoop01
 {
     internal class Program
     {
@@ -85,15 +87,34 @@
 
             #endregion
 
-             Employee E01 = new Employee();
+            #region prop
+            // Employee E01 = new Employee();
 
-            E01.Id = 12;
-            E01.Name = "ahmed";
-            E01.Salary = 12000;
+            //E01.Id = 12;
+            //E01.Name = "ahmed";
+            //E01.Salary = 12000;
 
 
 
-            Console.WriteLine(E01.Id);
+            //Console.WriteLine(E01.Id); 
+            #endregion
+
+            #region Indexer
+            //// 3. Special Properties (Indexer) 
+            //   1. named This
+
+            //PhoneBook phoneBook = new PhoneBook(3);
+
+            //phoneBook.AddPerson("Ahmed", 111, 0);
+            // phoneBook.AddPerson("Ali", 222, 1);
+
+            //Console.WriteLine(phoneBook["Ahmed"]);
+
+            //PhoneBook["Ahmed"] = 1111;
+
+            #endregion
+
+
 
         }
     }

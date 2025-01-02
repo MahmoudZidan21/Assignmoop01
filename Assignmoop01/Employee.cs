@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Assignmoop01
 {
-    internal class Employee
+    internal struct Employee
     {
 
         #region ENcapsulation
@@ -116,6 +116,10 @@ namespace Assignmoop01
 
         //// 3. Special Properties (Indexer) 
         #endregion
+
+        //// 3. Special Properties (Indexer) 
+        ///
+
 
 
 
