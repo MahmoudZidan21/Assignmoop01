@@ -42,6 +42,23 @@
 
             #endregion
 
+            #region OOP
+            // OOP : object Oriented Programming
+            // Programing Paradiang
+            // OOP : The Paradiang Use for Build any Business
+
+            // Class : Blueprint of the object
+            // Object : Specific Instance from Class 
+
+            // 4 Pillars
+            // 1. Encapsulation
+            // 2. inheritance 
+            // 3. Ploymorphism 
+            // 4. Abstraction 
+            #endregion
+
+
+
 
         }
     }
