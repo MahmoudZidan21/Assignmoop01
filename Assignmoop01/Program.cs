@@ -114,6 +114,17 @@ namespace Assignmoop01
 
             #endregion
 
+            #region Class
+            // class : Reference type : HEAP 
+
+            //Car car = new Car(1 , 300 , "XyZ");
+            //Console.WriteLine(car.Id);
+            //Console.WriteLine(car.Speed);
+            //Console.WriteLine(car.Model);
+
+            //Console.WriteLine(car);
+
+            #endregion
 
 
         }
