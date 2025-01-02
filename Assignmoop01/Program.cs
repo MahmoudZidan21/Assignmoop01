@@ -57,8 +57,33 @@
             // 4. Abstraction 
             #endregion
 
+            #region Encapsulation
+            // Encapsulation
+            // Class OR Struct 
+            // Seperate THe Data (Attributes) Definition From Its Use
+
+            // Employee E01 = new Employee();
 
 
+            //E01.id = 1;
+            //E01.name = "Ahmed";
+            //E01.salary = 12000;
+
+            //Console.WriteLine(E01.id);
+            //Console.WriteLine(E01.name);
+            //Console.WriteLine( E01.salary);
+
+            //E01.SetId(1);
+            //E01.SetName("A");
+            //E01.SetSalary(12000);
+
+
+            //Console.WriteLine(E01.GetId());
+            //Console.WriteLine(E01.GetName()); 
+            //Console.WriteLine(E01.GetSalary())
+            //    ;
+
+            #endregion
 
         }
     }
