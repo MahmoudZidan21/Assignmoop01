@@ -85,6 +85,16 @@
 
             #endregion
 
+             Employee E01 = new Employee();
+
+            E01.Id = 12;
+            E01.Name = "ahmed";
+            E01.Salary = 12000;
+
+
+
+            Console.WriteLine(E01.Id);
+
         }
     }
  }
